@@ -1,7 +1,7 @@
 
 public class Temp {
 	
-	public int method()
+	public void method()
 	{
 		char z = 'b';
 		int y = 0;
