@@ -1,14 +1,14 @@
 
 public class Temp {
 	
-	public void method()
+	public int method()
 	{
-		int x = 0;
-		while (x < 7)
+		int y = 0;
+		for (int x=0;x<8;x++)
 		{
-			z++;
-			x++;
+			y++;
 		}
+		return y;
 	}
 	
 
