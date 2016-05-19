@@ -1,15 +1,15 @@
 
 public class Temp {
 	
-	public void method()
+	public char method()
 	{
 		char z = 'b';
 		int y = 0;
-		for (int x=0;x<8;x++)
+		while (y<8)
 		{
 			y++;
 		}
-		return y;
+		return z + y;
 	}
 	
 
