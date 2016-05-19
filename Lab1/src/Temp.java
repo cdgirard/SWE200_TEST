@@ -5,7 +5,7 @@ public class Temp {
 	{
 		char z = 'b';
 		int y = 0;
-		for (int x=0;x<8;x++)
+		if (y<8)
 		{
 			y++;
 		}
