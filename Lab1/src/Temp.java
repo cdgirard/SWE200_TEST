@@ -1,7 +1,7 @@
 
 public class Temp {
 	
-	public void method()
+	public String method()
 	{
 		char z = 'b';
 		int y = 0;
@@ -9,7 +9,7 @@ public class Temp {
 		{
 			y++;
 		}
-		return y;
+		return ""+y+z;
 	}
 	
 
