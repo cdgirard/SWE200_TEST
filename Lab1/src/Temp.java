@@ -2,6 +2,7 @@
 public class Temp {
 	
 	public char method()
+	public int method()
 	{
 		char z = 'b';
 		int y = 0;
@@ -9,7 +10,7 @@ public class Temp {
 		{
 			y++;
 		}
-		return z + y;
+		return y;
 	}
 	
 
