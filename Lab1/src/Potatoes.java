@@ -1,6 +1,8 @@
 public class Potatoes
 {
-   // Able to view each element of y because it is a primitive 
+    int x;
+
+   // Able to view each element of y because it is a primitive
     public static void main(String[] args)
     {
         int[] y = new int[4];
@@ -10,7 +12,7 @@ public class Potatoes
         z[0] = "Hi";
         while (x < 4)
         {
-           
+
         }
     }
 }
