@@ -1,6 +1,6 @@
 
 public class Temp {
-	
+	int x;
 	public String method()
 	{
 		char z = 'b';
